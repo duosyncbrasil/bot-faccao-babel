@@ -1,0 +1,14 @@
+{
+  "name": "bot-faccao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "sqlite3": "^5.1.6",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3"
+  }
+}
